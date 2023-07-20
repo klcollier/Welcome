@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Lynne!
 - 👀 I’m interested in IT and finance.
-- 🌱 I’m currently learning how to serve a Help Desk.
-- 💞️ Thanks for visiting.
-- 📫 How to reach me:  
+- 🌱 I’m currently gaining Help Desk experience and loving it.
+- 💞️ Thanks for visiting!
 
 <!---
 klcollier/klcollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
