@@ -24,7 +24,7 @@
 
 
 🤳Connect with me:
-| [LinkedInJosh](https://www.linkedin.com/feed/) |
+| [(https://www.linkedin.com/feed/](https://www.linkedin.com/in/lynne-collier-44a34736?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9qkxABATSzaEnZzcvKjTXQ%3D%3D)) |
  
 
 <!---
