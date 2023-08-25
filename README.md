@@ -20,6 +20,7 @@
 </div>
 
 - Bachelor's in Business Administration, Mercer University, 2010, GPA 3.4
+- CourseCareers IT Certification (Pending Exam)
 
 
 
