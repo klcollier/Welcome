@@ -1,4 +1,4 @@
-- 👋 Hi, I’m EXPERIENECE!
+- 👋 Hi, I’m LYNNE!
 - 👀 I’m interested in IT and finance.
 - 🌱 I’m currently gaining Help Desk experience and loving it.
 - 💞️ Thanks for visiting!
