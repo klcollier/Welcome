@@ -9,7 +9,7 @@
 </div>
 
 - Contract Management, Purchasing, Sub-Recipient Management
-- Government & Promulgation
+- Government Operations & Promulgation
 - Higher Education Central Administration
 - Private Business
 - 501(c)3s
