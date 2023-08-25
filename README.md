@@ -8,10 +8,11 @@
   <h1>EXPERIENCE</h1>
 </div>
 
-- Contract Management
-- Government
-- Higher Education
-- Private Businesses
+- Contract Management, Purchasing, Sub-Recipient Management
+- Government & Promulgation
+- Higher Education Central Administration
+- Private Business
+- 501(c)3s
 
 
 <div align="center">
