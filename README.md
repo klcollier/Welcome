@@ -8,21 +8,18 @@
   <h1>EXPERIENCE</h1>
 </div>
 
-
-
+- Contract Management
+- Government
+- Higher Education
+- Private Businesses
 
 
 <div align="center">
   <h1>EDUCATION</h1>
 </div>
 
+- Bachelor's in Business Administration, Mercer University, 2010, GPA 3.4
 
-
-
-
-<div align="center">
-  <h1>5-YEAR GOALS</h1>
-</div>
 
 
 <!---
