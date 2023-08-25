@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h1>EXPERIENECE</h1>
+  <h1>EXPERIENCE</h1>
 </div>
 
 
