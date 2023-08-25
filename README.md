@@ -24,7 +24,8 @@
 
 
 🤳Connect with me:
-Josh | TwitterJosh | LinkedInJosh | Instagram
+| [LinkedInJosh](https://www.linkedin.com/feed/) |
+ 
 
 <!---
 klcollier/klcollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
